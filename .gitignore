@@ -1,0 +1,8 @@
+Pjt/.vs/*
+Pjt/Library/*
+Pjt/Logs/*
+Pjt/obj/*
+Pjt/Packages/*
+Pjt/Temp/*
+Pjt/*.csproj
+Pjt/zhao.sln
